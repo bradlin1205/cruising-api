@@ -4,16 +4,20 @@
   "description": "An app to help cruise-goers find fellow cruisers for events.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/climc118/cruising-app.git"
+    "url": "git+ssh://git@github.com/bradlin1205/cruising-api.git"
   },
   "author": "Bradley Lin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/climc118/cruising-app/issues"
+    "url": "https://github.com/bradlin1205/cruising-api/issues"
   },
-  "homepage": "https://github.com/climc118/cruising-app#readme"
+  "homepage": "https://github.com/bradlin1205/cruising-api#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
