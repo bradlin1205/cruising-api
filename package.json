@@ -1,0 +1,19 @@
+{
+  "name": "cruising",
+  "version": "1.0.0",
+  "description": "A app to help cruise goers find fellow cruisers for events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/climc118/cruising-app.git"
+  },
+  "author": "Bradley Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climc118/cruising-app/issues"
+  },
+  "homepage": "https://github.com/climc118/cruising-app#readme"
+}
