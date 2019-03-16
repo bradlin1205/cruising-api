@@ -1,7 +1,7 @@
 {
   "name": "cruising",
   "version": "1.0.0",
-  "description": "A app to help cruise goers find fellow cruisers for events.",
+  "description": "An app to help cruise-goers find fellow cruisers for events.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
